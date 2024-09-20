@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Dataset](#dataset)
 - [Usage](#usage)
 - [Preprocessing](#preprocessing)
@@ -20,23 +19,6 @@ This project focuses on detecting SMS spam messages using machine learning techn
 - **Machine Learning**: Applying models like Naive Bayes, Logistic Regression, and XGBoost to predict whether a message is spam.
 - **Evaluation Metrics**: Evaluating model performance using accuracy, precision, recall, and F1-score.
 
-## Installation
-To set up this project locally, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/sms-spam-detection.git
-   ```
-
-2. **Navigate to the project directory**:
-   ```bash
-   cd sms-spam-detection
-   ```
-
-3. **Install the required dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Dataset
 The dataset used for this project is a collection of SMS messages labeled as "spam" or "ham". You can download the dataset from the https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
